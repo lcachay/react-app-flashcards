@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app-flashcards/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-app-flashcards/static/js/main.2d0b1663.chunk.js",
+    "main.js.map": "/react-app-flashcards/static/js/main.2d0b1663.chunk.js.map",
+    "runtime-main.js": "/react-app-flashcards/static/js/runtime-main.ee2f06ac.js",
+    "runtime-main.js.map": "/react-app-flashcards/static/js/runtime-main.ee2f06ac.js.map",
+    "static/js/2.1f37c451.chunk.js": "/react-app-flashcards/static/js/2.1f37c451.chunk.js",
+    "static/js/2.1f37c451.chunk.js.map": "/react-app-flashcards/static/js/2.1f37c451.chunk.js.map",
+    "static/js/3.a9c8aeab.chunk.js": "/react-app-flashcards/static/js/3.a9c8aeab.chunk.js",
+    "static/js/3.a9c8aeab.chunk.js.map": "/react-app-flashcards/static/js/3.a9c8aeab.chunk.js.map",
+    "index.html": "/react-app-flashcards/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-app-flashcards/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1f37c451.chunk.js.LICENSE.txt": "/react-app-flashcards/static/js/2.1f37c451.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-app-flashcards/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee2f06ac.js",
+    "static/js/2.1f37c451.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2d0b1663.chunk.js"
+  ]
+}
